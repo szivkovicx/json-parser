@@ -274,7 +274,7 @@ You can now access `key` field inside this object.
 
 First install all packages using `npm i` and run `npm start`. 
 
-# Documnentation
+# Documentation
 
 ## parseFromFile(*path*: `string`): `object`
 

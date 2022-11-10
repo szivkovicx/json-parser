@@ -296,3 +296,7 @@ Args:
 
 To access different processes you can import `Tokenizer`, `Lexer`, `AST` and `Parser` classes. Each of them have `parse` method ( except `AST` which has `construct` ) that accept argument of previous process result.
 
+## Helpers
+
+To visualize every process better, use `JSON.stringify(<object>, null, 2)`. 
+

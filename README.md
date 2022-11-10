@@ -302,3 +302,9 @@ To access different processes you can import `Tokenizer`, `Lexer`, `AST` and `Pa
 
 To visualize every process better, use `JSON.stringify(<object>, null, 2)`. 
 
+## Bugs
+
+There are a couple of bugs. I will try to fix them in the future:
+* Objects can have invalid keypairs
+* Number floats can have more than one dot token at any place
+* Can have multiple non-nested types at the root of the file/syntax

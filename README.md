@@ -6,6 +6,8 @@
 ***NOTE:***
 ***This is my first parser and I pushed it to Github just to showcase the project. It's not production ready in any sense.***
 
+![New Project](https://user-images.githubusercontent.com/63911579/201115062-29d455bf-a25e-4e0b-a13b-8f12c2b93f4e.png)
+
 This is a little project showcasing the parsing process of JSON syntax and parser can turn JSON into the object that Javascript can read.
 
 Parser was build based on this [document](https://www.json.org/json-en.html).
